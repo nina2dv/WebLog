@@ -3,6 +3,16 @@ import React, { useState }  from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
 
+function toggleAccordion() {
+    var accordion = document.querySelector(".accordion");
+    var panel = accordion.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  }
+
 function Bot() {
   const [output, setOutput] = useState("")
   const [docs, setDocs] = useState("")
@@ -11,7 +21,7 @@ function Bot() {
   const [course, setCourse] = useState("")
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  var note = "#Keep in mind:\n- Chat bot responses may be incorrect (access them thoroughly)\n- Chat bot doesn't have memory yet\n- LLM is Cohere command-nightly\n- Embedding model is Cohere embed-multilingual-v3.0 (Can answer queries in [100+ languages](https://docs.cohere.com/docs/supported-languages))\n- Retrieved documents or background info comes from textbooks\n- Must enter course code without space in between (eecsxxxx or EECSxxxx)\n- Query and course should be related (or else unexpected answers may occur)\n- Supports EECS2001, EECS2021, MATH1025, MATH2030, MATH1090 so far\n";
+  var note = "#Keep in mind:\n- Chat bot responses may be incorrect (assess them thoroughly)\n- Chat bot doesn't have memory yet\n- LLM is Cohere command-nightly\n- Embedding model is Cohere embed-multilingual-v3.0 (Can answer queries in [100+ languages](https://docs.cohere.com/docs/supported-languages))\n- Retrieved documents or background info comes from textbooks\n- Must enter course code without space in between (eecsxxxx or EECSxxxx)\n- Query and course should be related (or else unexpected answers may occur)\n- Supports EECS2001, EECS2021, MATH1025, MATH2030, MATH1090 so far\n";
 
 
   function handleChangeText(e) {
@@ -29,9 +39,18 @@ function Bot() {
     const courseValue = document.getElementById("course").value.trim().toLowerCase();
 
     if (queryValue) {
-        axios.post("http://localhost:5000/query", {
+        const token = process.env.REACT_APP_API_KEY;
+
+
+        // axios.post("http://localhost:5000/query", {
+        axios.post("https://weblog-flask.onrender.com/query", {
             query: queryValue, 
             course: courseValue, 
+        }, {
+            headers: {
+                // Include the Authorization header with the token
+                'Authorization': `Bearer ${token}`
+            }
         })
         .then((res) => {
             const newEntry = {
@@ -61,7 +80,7 @@ function Bot() {
     <div>
         <Markdown># ChatBot</Markdown>
 
-    <div>
+    <div className="chat-history"> 
         {chatHistory.map((entry, index) => (
             <div key={index}>
                 <Markdown>{"**You: **" + entry.query + "\n\n"}</Markdown>
@@ -83,7 +102,10 @@ function Bot() {
     </form>
 
     {/* <Markdown>{output + "\n\n---"}</Markdown> */}
-    <Markdown>{docs}</Markdown>
+    <button className="accordion" onClick={toggleAccordion}>Show Retrieved Documents</button>
+    <div className="panel">
+  <Markdown>{docs}</Markdown>
+    </div>
 
 
     </div>

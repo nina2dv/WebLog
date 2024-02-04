@@ -1,0 +1,1279 @@
+    1  git push
+    2  git status
+    3  git add *
+    4  git commit -m "Updated Lab4"
+    5  git push
+    6  git add *
+    7  git status
+    8  git commit -m "Updated Lab5"
+    9  git push
+   10  cd ..
+   11  cd *
+   12  cd ~
+   13  ls
+   14  cd Downloads
+   15  mv DynamicalSystemsModule_Assignment.ipynb.txt DynamicalSystemsModule_Assignment.ipynb
+   16  cd ..
+   17  cd Projects
+   18  ls
+   19  cd EECS1022-W23-workplace
+   20  git status
+   21  git add *
+   22  git status
+   23  git commit -m "Updated labs"
+   24   git config --global user.name "nina2dv"
+   25  git commit -m "Updated labs"
+   26   git config --global user.name "nina2dev"
+   27  git commit -m "Updated labs"
+   28  git config user.email "nina2dev@gmail.com"
+   29  git commit -m "Updated labs"
+   30  git push
+   31  git status
+   32  git add *
+   33  git commit -m "Added lab 7"
+   34  git push
+   35  git status
+   36  git add *
+   37  git commit -m "Updated lab 7"
+   38  git push
+   39  git status
+   40  git add *
+   41  git commit -m "Updated labs"
+   42  git push
+   43  cd ..
+   44  ls
+   45  cd Pycharm_python3_8
+   46  ls
+   47  git status
+   48  git add *
+   49  cd gpt4
+   50  git status
+   51  git add *
+   52  git commit -m "Updated Projects"
+   53  git push
+   54  cd ..
+   55  cd ..
+   56  cd EECS1022-W23-workplace
+   57  ls
+   58  git status
+   59  git status
+   60  git add *
+   61  git commit -m "Updated lab 7 and 8"
+   62  git push
+   63  git status
+   64  ls
+   65  cd Projects
+   66  ls
+   67  cd EECS1022-W23-workplace
+   68  git status
+   69  cd ..
+   70  ls
+   71  cd Pycharm_python3
+   72  ls
+   73  cd ..
+   74  cd Pycharm_python3_8
+   75  ls
+   76  git status
+   77  streamlit run app1.py
+   78  pip list
+   79  cd ..
+   80  cd colour
+   81  streamlit run plant.py
+   82  cd ..
+   83  cd col
+   84  cd colour
+   85  streamlit run app.py
+   86  pip list
+   87  ls
+   88  cd Projects
+   89  ls
+   90  npx
+   91  node 
+   92  node -version
+   93  node -v
+   94  node --version
+   95  nodejs -v
+   96  npm -v
+   97  brew
+   98  brew install node
+   99  node .v
+  100  node -v
+  101  npm -v
+  102  mkdir vs
+  103  ls
+  104  cd vs
+  105  mkdir react
+  106  ls
+  107  cd react
+  108  npm -v
+  109  npx create-react-app my-app
+  110  ls
+  111  cd my-app
+  112  npm start
+  113  cd..
+  114  cd ..
+  115  cd openAssist
+  116  streamlit run app.py
+  117  pip uninstall pytube
+  118  pip uninstall pytube3
+  119  python -m pip install git+https://github.com/nficano/pytube
+  120  pip install pytube3
+  121  python -m pip install --upgrade pytube
+  122  cd ..
+  123  mkdir free
+  124  ls
+  125  cd free
+  126  git clone https://github.com/xtekky/gpt4free.git
+  127  pip3 install -r requirements.txt
+  128  cd gpt4free
+  129  pip3 install -r requirements.txt
+  130  cd gui
+  131  streamlit run streamlit_chat_app.py
+  132  streamlit run streamlit_app.py 
+  133  cd ..
+  134  cd ..
+  135  cd ..
+  136  cd quack
+  137  streamlit run test.py
+  138  streamlit run test.py
+  139  pip install qdrant-client
+  140  pip install pypdf
+  141  pip install protobuf==3.20.*
+  142  pip list
+  143  pip install --upgrade "protobuf<=3.20.1"\n
+  144  pip install --upgrade "protobuf<=3.20.1"\n install "detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2"\npip install --upgrade "protobuf<=3.20.1"\n install layoutparser[layoutmodels,tesseract]
+  145  cd ..
+  146  cd openAssistant
+  147  streamlit run app.py
+  148  pip install huggingface_hub
+  149  streamlit run app.py
+  150  pip install transformers openai accelerate diffusers -q
+  151  pip install transformers==4.29.0
+  152  pip list
+  153  pip install huggingface_hub>=0.14.1
+  154  pip install huggingface_hub==0.14.1
+  155  pip install python-dotenv\n
+  156  ls
+  157  cd Projects
+  158  ls
+  159  cd vs
+  160  ls
+  161  cd react
+  162  npx create-react-app my-app
+  163  npx create-react-app ai-art
+  164  npx create-react-app chat
+  165  npx create-react-app chat
+  166  npx create vite
+  167  npm create vite
+  168  ls
+  169  npm create vite
+  170  ls
+  171  ls
+  172  npx create-react-app recipe
+  173  ls
+  174  cd Projects
+  175  ls
+  176  cd vs
+  177  ls
+  178  cd react
+  179  ls
+  180  mv class-cache class-cache2
+  181  ls
+  182  npm create vite
+  183  npm create vite
+  184  npx create-react-app blog
+  185  langchain --version
+  186  pip list
+  187  pip install langchain>=0.0.184
+  188  pip install -U langchain
+  189  pip list
+  190  pip install langchain==0.0.185
+  191  cd ..
+  192  cd quack
+  193  pip install git+https://github.com/suno-ai/bark.git\n
+  194  pip install gTTS\n
+  195  pip install elevenlabs -U
+  196  echo hi
+  197  echo $(( 6 ? 20-1 : 20+1))
+  198  echo $(( 6 ? 20-1 : 20+1)
+  199  echo "hello, there" | sed 's/[a-z]/[ ]/'
+  200  echo "hello, there" | sed 's/[a-z]/\[ \]/'
+  201  echo "hello, there" | sed -E 's/[a-z]/[ ]/'
+  202  echo "hello, there" | sed 's/[a-z]/\' \'/g'\necho "hello, there" | sed -E 's/[a-z]//'\n\nd\n
+  203  echo "hello, there" | sed 's/[a-z]/\' \'/g'\necho "hello, there" | sed -E 's/[a-z]//'\n\nd\n
+  204  echo "hello, there" | sed -E 's/[a-z]//g'
+  205  echo "hello, there" | sed -E 's/[a-z]//!g'
+  206  echo "hello, there" | sed -E 's/![a-z]//g'
+  207  echo "hello, there" | sed -E 's/[^,]//g'
+  208  echo "hello, there" | sed -E 's/[^a-z]//g'
+  209  echo "hello, there" | sed -E 's/[^a-z]|[^\\]//g'
+  210  echo "hello, there" | sed -E 's/[^a-z]//g'
+  211  echo "hello, there" | sed -E 's/[^a-z];[^\\]//g'
+  212  echo "hello, there" | sed -E 's/[^a-z]|[^\\]//g'
+  213  echo "hello, there" | sed -E 's/[^a-z \\]//g'
+  214  echo "hello, there" | sed -E 's/[^a-z \\]/\\/g'
+  215  echo "hello, there" | sed -E 's/[^a-z \\]/\\ /g'
+  216  echo "hello, there" | sed -E 's/[^a-z \\]//g'
+  217  echo "hello, there" | sed -E 's/[^a-z \\]/\s/g'
+  218  echo "hello, there" | sed -e 's/[^a-z \\]/\s/g'
+  219  echo "hello, there" | sed -E 's/[^a-z \\]/\s/g'
+  220  echo "hello, there" | sed -E 's/[^a-z \\]/ \\/g'
+  221  echo "hello, there" | sed -E 's/[^a-z \\]/ \/g'
+  222  echo "hello, there" | sed -E 's/[^a-z \\]/ \\ /g'
+  223  echo "hello, there" | sed -E 's/[^a-z \\]//g'
+  224  man find
+  225  diff "DOHSMOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO" "DOHSNOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO"
+  226  diff < (echo "DOHSNOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO") < (echo "DOHSMOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO")
+  227  diff <(echo "DOHSNOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO") <(echo "DOHSMOTGBTUGOAOLOO XWYYOJKBTBYJWBBGTOFA LKTGVBXOUBFGRBSASTO OOXO")
+  228  cd 
+  229  ls
+  230  grep -lr "A" .
+  231  echo "hi" 0> wc 
+  232  print 2> &1
+  233  print 2>&1
+  234  prin22t 2>&1
+  235  man test
+  236  man test
+  237  ls
+  238  cd Documents
+  239  ls
+  240  cd ..
+  241  cd Downloads
+  242  ls
+  243  test -f wolf.png
+  244  echo test -f wolf.png
+  245  echo $(test -f wolf.png)
+  246  echo '$(test -f wolf.png)'
+  247  echo "$(test -f wolf.png)"
+  248  man test
+  249  ((test -f wolf.png ? echo "hi": echo "bye"))
+  250  ls
+  251  (($(test -f week1_1.pdf) ? echo "hi": echo "bye"))
+  252  (($(test -f week1_1.pdf) ? $(echo "hi"): echo "bye"))
+  253  (($(test -f week1_1.pdf) ? $(echo "hi"): (echo "bye")))
+  254  (($(test -f week1_1.pdf) ? 0 : 1))
+  255  (($(test -f week1_1.pdf) ? echo 0 : echo 1))
+  256  man test
+  257  echo 'cat dog pear banana cat dog’ | sed -E 's/cat|dog/Bear/g'\ncd ..
+  258  ls
+  259  cd Downloads
+  260  mkdir JavaBooks
+  261  man sed
+  262  xcode-select --install\n\n
+  263  brew install gcc\n\n
+  264  gcc
+  265  gcc --version
+  266  ls
+  267  cd My\ project
+  268  ls
+  269  cd ..
+  270  ls
+  271  cd Documents
+  272  ls
+  273  mkdir ccode
+  274  ls
+  275  cd ccode
+  276  ls
+  277  code.
+  278  vi test
+  279  gcc test
+  280  mv test test.c
+  281  gcc test.c
+  282  ls
+  283  ./a.out
+  284  ./a.out
+  285  ls
+  286  cd ..
+  287  ls
+  288  cd ..
+  289  ls
+  290  cd Projects/
+  291  ls
+  292  cd vs
+  293  cd c
+  294  ls
+  295  gcc test.c
+  296  ls
+  297  ./a.out
+  298  ls
+  299  ls
+  300  gcc test.c
+  301  ./a.out
+  302  gcc -o test.c hello.out
+  303  gcc -o heloo test.c
+  304  ls
+  305  ./heloo
+  306  ls
+  307  rm -f a.out
+  308  rm -f heloo
+  309  ls
+  310  gcc -o wel.out test.c
+  311  ./wel.out
+  312  gcc -o wel.out test.c
+  313  ./wel.out
+  314  gcc -o wel.out test.c
+  315  gcc -o wel.out test.c
+  316  ./wel.out
+  317  gcc -o wel.out test.c
+  318  ./wel.out
+  319  gcc -o wel.out test.c
+  320  ./wel.out
+  321  gcc -o wel.out test.c
+  322  ./wel.out
+  323  gcc -o wel.out test.c
+  324  ./wel.out
+  325  gcc -o wel.out test.c
+  326  ./wel.out
+  327  gcc -o wel.out test.c
+  328  ./wel.out
+  329  gcc -o wel.out test.c
+  330  ./wel.out
+  331  gcc -o wel.out test.c
+  332  ./wel.out
+  333  gcc -o wel.out test.c
+  334  ./wel.out
+  335  gcc -o wel.out test.c
+  336  gcc -o wel.out test.c
+  337  ./wel.out
+  338  gcc -o wel.out test.c
+  339  ./wel.out
+  340  ./wel.out
+  341  gcc -o wel.out test.c
+  342  ./wel.out
+  343  gcc -o wel.out test.c
+  344  ./wel.out
+  345  gcc -o wel.out test.c
+  346  ./wel.out
+  347  gcc -o wel.out test.c
+  348  ./wel.out
+  349  ./wel.out
+  350  gcc -o wel.out test.c
+  351  gcc -o wel.out test.c
+  352  ./wel.out
+  353  ./wel.out
+  354  ./wel.out
+  355  ./wel.out
+  356  ./wel.out
+  357  gcc -o wel.out test.c
+  358  ./wel.out
+  359  gcc -o wel.out test.c
+  360  ./wel.out
+  361  ./wel.out
+  362  gcc -o wel.out test.c
+  363  ./wel.out
+  364  gcc -o wel.out test.c
+  365  ./wel.out
+  366  gcc -o wel.out test.c
+  367  ./wel.out
+  368  gcc -o wel.out test.c
+  369  ./wel.out
+  370  gcc -o wel.out test.c
+  371  ./wel.out
+  372  ./wel.out
+  373  ./wel.out
+  374  gcc -o wel.out test.c
+  375  ./wel.out
+  376  gcc -o wel.out test.c
+  377  ./wel.out
+  378  gcc -o wel.out test.c
+  379  ./wel.out
+  380  gcc -o wel.out test.c
+  381  ./wel.out
+  382  ./wel.out
+  383  gcc -o wel.out test.c
+  384  ./wel.out
+  385  cat test.c
+  386  gcc -o wel.out test.c
+  387  ./wel.out
+  388  gcc -o wel.out test.c
+  389  ./wel.out
+  390  ./wel.out
+  391  man printf
+  392  gcc pointer.c
+  393  ./a.out
+  394  gcc pointer.c
+  395  ./a.out
+  396  gcc pointer.c
+  397  gcc pointer.c
+  398  ./a.out
+  399  gcc pointer.c
+  400  ./a.out
+  401  gcc multidim.c
+  402  ./a.out
+  403  gcc multidim.c
+  404  ./a.out
+  405  cd ..
+  406  ls
+  407  cd ..
+  408  ls
+  409  touch 2031A_bonus1.txt
+  410  vi 2031A_bonus1.txt
+  411  cat 2031A_bonus1.txt
+  412  chmod help
+  413  ls
+  414  chmod a+rwx 2031A_bonus1.txt
+  415  ls -l
+  416  cd ..
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  ls
+  421  cd ..
+  422  ls
+  423  cd Projects
+  424  ls
+  425  cd vs
+  426  ls
+  427  cd c
+  428  ls
+  429  gcc flagging.c
+  430  ls
+  431  ./a.out
+  432  gcc flagging.c
+  433  ./a.out
+  434  gcc flagging.c
+  435  ./a.out
+  436  gcc flagging.c
+  437  ./a.out
+  438  gcc flagging.c
+  439  ./a.out
+  440  gcc flagging.c
+  441  ./a.out
+  442  gcc flagging.c
+  443  ./a.out
+  444  gcc flagging.c
+  445  ./a.out
+  446  gcc flagging.c
+  447  ./a.out
+  448  gcc flagging.c
+  449  ./a.out
+  450  gcc flagging.c
+  451  ./a.out
+  452  gcc flagging.c
+  453  ./a.out
+  454  gcc flagging.c
+  455  ./a.out
+  456  gcc flagging.c
+  457  ./a.out
+  458  gcc flagging.c
+  459  ./a.out
+  460  gcc flagging.c
+  461  ./a.out
+  462  gcc flagging.c
+  463  ./a.out
+  464  gcc flagging.c
+  465  ./a.out
+  466  gcc flagging.c
+  467  ./a.out
+  468  gcc flagging.c
+  469  ./a.out
+  470  gcc flagging.c
+  471  gcc flagging.c
+  472  ./a.out
+  473  gcc flagging.c
+  474  ./a.out
+  475  gcc flagging.c
+  476  ./a.out
+  477  gcc flagging.c
+  478  ./a.out
+  479  ./a.out
+  480  ./a.out
+  481  gcc flagging.c
+  482  ./a.out
+  483  gcc flagging.c
+  484  ./a.out
+  485  gcc flagging.c
+  486  gcc flagging.c
+  487  ./a.out
+  488  gcc flagging.c
+  489  ./a.out
+  490  gcc flagging.c
+  491  ./a.out
+  492  gcc flagging.c
+  493  ./a.out
+  494  gcc flagging.c
+  495  ./a.out
+  496  gcc flagging.c
+  497  ./a.out
+  498  ./a.out
+  499  ./a.out
+  500  ./a.out
+  501  ./a.out
+  502  ./a.out
+  503  gcc flagging.c
+  504  ./a.out
+  505  gcc flagging.c
+  506  gcc flagging.c
+  507  ./a.out
+  508  gcc flagging.c
+  509  ./a.out
+  510  gcc flagging.c
+  511  ./a.out
+  512  $?
+  513  $?
+  514  ?
+  515  ?
+  516  !
+  517  !
+  518  !
+  519  !
+  520  echo $?
+  521  gcc flagging.c
+  522  gcc foo.c
+  523  ./a.out
+  524  gcc foo.c
+  525  ./a.out
+  526  gcc foo.c
+  527  ./a.out
+  528  gcc foo.c
+  529  ./a.out
+  530  gcc foo.c
+  531  ./a.out
+  532  gcc foo.c
+  533  ./a.out
+  534  gcc foo.c
+  535  gcc foo.c
+  536  gcc foo.c
+  537  ./a.out
+  538  gcc foo.c
+  539  ./a.out
+  540  gcc readfile.c
+  541  ./a.out
+  542  ./a.out
+  543  ./a.out
+  544  ls 
+  545  ls -l
+  546  chmod 000 myfile.txt
+  547  ./a.out
+  548  chmod 077 myfile.txt
+  549  ./a.out
+  550  chmod 700 myfile.txt
+  551  ./a.out
+  552  echo $?
+  553  chmod 077 myfile.txt
+  554  echo $?
+  555  ./a.out
+  556  echo $?
+  557  chmod 700 myfile.txt
+  558  gcc arrFile.c
+  559  ./a.out
+  560  chmod 300 myfile.txt
+  561  ./a.out
+  562  echo "Buffalo Bill And The Indians or Sitting Bull's History Lesson" | wc -c
+  563  gcc textAnalyzer.c
+  564  gcc textAnalyzer.c
+  565  ./a.out
+  566  gcc textAnalyzer.c
+  567  ./a.out
+  568  ./a.out
+  569  gcc dateParse.c
+  570  ./a.out
+  571  gcc testing1.c
+  572  gcc testing1.c
+  573  ./a.out
+  574  gcc testing1.c
+  575  ./a.out
+  576  gcc testing1.c
+  577  ./a.out
+  578  gcc testing1.c
+  579  ./a.out
+  580  gcc testing1.c
+  581  ./a.out
+  582  gcc testing1.c
+  583  gcc testing1.c
+  584  ./a.out
+  585  gcc testing1.c
+  586  ./a.out
+  587  gcc testing2.c
+  588  ./a.out
+  589  gcc testing2.c
+  590  ./a.out
+  591  gcc testing2.c
+  592  gcc testing1.c
+  593  gcc testing2.c
+  594  gcc testing1.c
+  595  ./a.out
+  596  gcc testing1.c
+  597  ./a.out
+  598  gcc testing1.c
+  599  gcc testing1.c
+  600  gcc testing1.c
+  601  ./a.out
+  602  gcc testing1.c
+  603  gcc testing1.c
+  604  ./a.out
+  605  gcc testing1.c
+  606  gcc testing1.c
+  607  gcc testing1.c
+  608  gcc testing1.c
+  609  ./a.out
+  610  gcc cli.c
+  611  gcc cli.c
+  612  ./a.out hi bye
+  613  gcc luckyDieMain.c GVDie.c
+  614  ./a.out
+  615  gcc luckyDieMain.c GVDie.c
+  616  ./a.out
+  617  ./a.out > luckyFile.txt
+  618  wc luckyFile.txt
+  619  grep 'Dice total: ' luckyFile.txt
+  620  grep 'Dice total: ' luckyFile.txt | wc
+  621  ./a.out
+  622  ./a.out
+  623  gcc indexOf.c
+  624  gcc indexOf.c
+  625  ./a.out
+  626  gcc indexOf.c
+  627  ./a.out
+  628  gcc indexOf.c
+  629  gcc indexOf.c
+  630  ./a.out
+  631  gcc indexOf.c
+  632  ./a.out
+  633  gcc indexOf.c
+  634  ./a.out
+  635  gcc indexOf.c
+  636  ./a.out
+  637  gcc fileNameChange.c
+  638  ./a.out
+  639  gcc fileNameChange.c
+  640  ./a.out
+  641  gcc fileNameChange.c
+  642  ./a.out
+  643  gcc fileNameChange.c
+  644  ./a.out
+  645  gcc fileNameChange.c
+  646  gcc fileNameChange.c
+  647  ./a.out
+  648  gcc fileNameChange.c
+  649  ./a.out
+  650  gcc fileNameChange.c
+  651  ./a.out
+  652  gcc fileNameChange.c
+  653  ./a.out
+  654  gcc fileNameChange.c
+  655  ./a.out
+  656  gcc fileNameChange.c
+  657  ./a.out
+  658  gcc parseFoodData.c
+  659  ./a.out
+  660  ./a.out
+  661  ./a.out
+  662  gcc parseFoodData.c
+  663  ./a.out
+  664  gcc parseFoodData.c
+  665  ./a.out
+  666  gcc parseFoodData.c
+  667  ./a.out
+  668  gcc parseFoodData.c
+  669  ./a.out
+  670  gcc parseFoodData.c
+  671  ./a.out
+  672  gcc parseFoodData.c
+  673  ./a.out
+  674  gcc parseFoodData.c
+  675  ./a.out
+  676  gcc parseFoodData.c
+  677  ./a.out
+  678  gcc parseFoodData.c
+  679  ./a.out
+  680  gcc parseFoodData.c
+  681  ./a.out
+  682  gcc parseFoodData.c
+  683  ./a.out
+  684  gcc parseFoodData.c
+  685  ./a.out
+  686  gcc parseFoodData.c
+  687  ./a.out
+  688  gcc parseFoodData.c
+  689  ./a.out
+  690  vi food1.txt
+  691  cat food1.txt
+  692  vi food1.txt
+  693  gcc parseFoodData.c
+  694  ./a.out
+  695  gcc parseFoodData.c
+  696  ./a.out
+  697  gcc parseFoodData.c
+  698  ./a.out
+  699  gcc parseFoodData.c
+  700  gcc parseFoodData.c
+  701  ./a.out
+  702  gcc parseFoodData.c
+  703  ./a.out
+  704  gcc parseFoodData.c
+  705  ./a.out
+  706  gcc fileNameChange.c
+  707  ./a.out
+  708  gcc fileNameChange.c
+  709  ./a.out
+  710  gcc fileNameChange.c
+  711  ./a.out
+  712  gcc fileNameChange.c
+  713  ./a.out
+  714  gcc fileNameChange.c
+  715  gcc fileNameChange.c
+  716  ./a.out
+  717  gcc parseFoodData.c
+  718  ./a.out
+  719  gcc indexOf.c
+  720  ./a.out
+  721  gcc indexOf.c
+  722  ./a.out
+  723  gcc indexOf.c
+  724  ./a.out
+  725  gcc parseFoodData.c
+  726  ./a.out
+  727  gcc parseFoodData.c
+  728  ./a.out
+  729  ./a.out
+  730  ./a.out
+  731  AmericanSamoa1989_photo.jpg
+  732  BlackCanyonoftheGunnison1983_photo.jpg
+  733  CarlsbadCaverns2010_photo.jpg
+  734  CraterLake1996_photo.jpg
+  735  GrandCanyon1996_photo.jpg
+  736  IndianaDunes1987_photo.jpg
+  737  LakeClark2009_photo.jpg
+  738  Redwood1980_photo.jpg
+  739  VirginIslands2007_photo.jpg
+  740  Voyageurs2006_photo.jpg
+  741  ./a.out
+  742  ./a.out
+  743  ./a.out
+  744  ./a.out
+  745  gcc parseFoodData.c
+  746  ./a.out
+  747  gcc fileNameChange.c
+  748  ./a.out
+  749  ./a.out| wc
+  750  gcc parseFoodData.c
+  751  ./a.out| wc
+  752  pwd
+  753  dir
+  754  cwd
+  755  vi chartest.c
+  756  gcc chartest.c
+  757  ./a.out
+  758  gdb
+  759  who
+  760  who | wc -l
+  761  $!
+  762  $$
+  763  grep c chartest.c
+  764  grep chartest.c
+  765  grep c-"abc" chartest.c
+  766  $!
+  767  $$
+  768  $!
+  769  $%
+  770  read
+  771  man read
+  772  read chartest.c
+  773  man open
+  774  man bash
+  775  gcc assign.c
+  776  ./a.out
+  777  ./a.out
+  778  gcc assign.c
+  779  ./a.out
+  780  gcc assign.c
+  781  ./a.out
+  782  ./a.out
+  783  gcc assign.c
+  784  gcc assign.c
+  785  ./a.out
+  786  gcc assign.c
+  787  ./a.out
+  788  gcc assign.c
+  789  ./a.out
+  790  gcc assign.c
+  791  gcc assign.c
+  792  gcc assign.c
+  793  gcc assign.c
+  794  ./a.out
+  795  gcc assign.c
+  796  ./a.out
+  797  gcc assign.c
+  798  ./a.out
+  799  gcc assign.c
+  800  ./a.out
+  801  gcc assign.c
+  802  ./a.out
+  803  ./a.out
+  804  gcc assign.c
+  805  ./a.out
+  806  gcc assign.c
+  807  ./a.out
+  808  ./a.out
+  809  gcc assign.c
+  810  ./a.out
+  811  gcc assign.c
+  812  ./a.out
+  813  gcc assign.c
+  814  ./a.out
+  815  gcc assign.c
+  816  gcc assign.c
+  817  ./a.out
+  818  gcc assign.c
+  819  ./a.out
+  820  ./a.out
+  821  gcc assign.c
+  822  gcc assign.c
+  823  gcc assign.c
+  824  gcc assign.c
+  825  gcc assign.c
+  826  gcc assign.c
+  827  ./a.out
+  828  gcc assign.c
+  829  ./a.out
+  830  gcc assign.c
+  831  ./a.out
+  832  gcc assign.c
+  833  ./a.out
+  834  gcc assign.c
+  835  ./a.out
+  836  gcc assign.c
+  837  ./a.out
+  838  gcc assign.c
+  839  ./a.out
+  840  gcc assign.c
+  841  ./a.out
+  842  gcc assign.c
+  843  gcc assign.c
+  844  gcc assign.c
+  845  ./a.out
+  846  gcc assign.c
+  847  ./a.out
+  848  gcc assign.c
+  849  ./a.out
+  850  gcc assign.c
+  851  ./a.out
+  852  gcc assign.c
+  853  ./a.out
+  854  ./a.out
+  855  ./a.out
+  856  ./a.out
+  857  ./a.out
+  858  gcc assign.c
+  859  ./a.out
+  860  gcc assign.c
+  861  ./a.out
+  862  gcc assign.c
+  863  ./a.out
+  864  gcc assign.c
+  865  gcc assign.c
+  866  gcc assign.c
+  867  gcc assign.c
+  868  ./a.out
+  869  gcc assign.c
+  870  ./a.out
+  871  gcc assign.c
+  872  ./a.out
+  873  gcc assign.c
+  874  gcc assign.c
+  875  ./a.out
+  876  ./a.out
+  877  gcc assign.c
+  878  ./a.out
+  879  gcc assign.c
+  880  ./a.out
+  881  gcc assign.c
+  882  ./a.out
+  883  gcc assign.c
+  884  ./a.out
+  885  gcc assign.c
+  886  gcc assign.c
+  887  ./a.out
+  888  gcc assign.c
+  889  ./a.out
+  890  gcc assign.c
+  891  ./a.out
+  892  gcc assign.c
+  893  ./a.out
+  894  gcc assign.c
+  895  ./a.out
+  896  gcc assign.c
+  897  ./a.out
+  898  gcc assign.c
+  899  gcc assign.c
+  900  ./a.out
+  901  gcc assign.c
+  902  ./a.out
+  903  gcc assign.c
+  904  ./a.out
+  905  gcc assign.c
+  906  gcc assign.c
+  907  ./a.out
+  908  gcc assign.c
+  909  ./a.out
+  910  gcc assign.c
+  911  ./a.out
+  912  cat assign.c| tail 5
+  913  pip install elevenlabs -U list
+  914  pip list
+  915  selenium
+  916  pip install selenium
+  917  pip install --upgrade langchain 
+  918  pip install langchain==0.0.185
+  919  echo "$SHELL"
+  920  echo $SHELL
+  921  $1
+  922  $0
+  923  $SHELL
+  924  pip list
+  925  pip install --upgrade huggingface-hub
+  926  pip list
+  927  ls
+  928  cd Projects
+  929  ls
+  930  cd vs
+  931  ls
+  932  cd react
+  933  ls
+  934  npx create-react-app weblog
+  935  cd my-app
+  936  ls
+  937  cd ..
+  938  ls
+  939  node -v
+  940  brew upgrade npm
+  941  brew cleanup
+  942  npx create-react-app weblog
+  943  pip install langchain==0.0.310
+  944  pip install --force-reinstall typing-extensions==4.5.0\n
+  945  pip install pydantic==1.10.8
+  946  pip install pydantic==1.10.11
+  947  pip install pydantic
+  948  pip install langchain==0.0.185
+  949  pip install langchain==111
+  950  pip install langchain==0.0.3
+  951  pip install langchain==0.0.309
+  952  pip install langchain==0.0.318
+  953  pip install langchain==0.0.320
+  954  pip list
+  955  git add *
+  956  git add .
+  957  git status
+  958  cd Refugee\ Law\ Lab
+  959  ls
+  960  cd case-briefing
+  961  ls
+  962  git add .
+  963  git status
+  964  git commit -m "Added dataset and LangChain"
+  965  git status
+  966  git commit
+  967  git push
+  968  pip list
+  969  git add .
+  970  git commit -m "Create requirements.txt"
+  971  git push
+  972  pip list
+  973  pip install anthropic==1
+  974  pip install anthropic==0.5.0
+  975  pip install anthropic==0.3
+  976  pip install anthropic==0.4.1
+  977  pip install langchain==0.0.333
+  978  pip install langchain_experimental
+  979  pip install langchain==0.0.232
+  980  pip install langchain==0.0.308
+  981  pip install langchain==0.0.334
+  982  pip install anthropic==0.6.0
+  983  docker -info
+  984  docker images
+  985  docker -info
+  986  docker status
+  987  docker =status
+  988  docker info
+  989  docker info
+  990  docker info
+  991  docker status
+  992  docker info
+  993  docker-machine restart
+  994  docker run hello-world
+  995  docker d
+  996  dockerd
+  997  dockerd
+  998  dockerd
+  999  docker info
+ 1000  curl -X POST http://192.168.1.195/api/generate -d '{\n  "model": "llama2",\n  "prompt":"Why is the sky blue?"\n }'
+ 1001  pip list
+ 1002  ls
+ 1003  git add .
+ 1004  git commit -m "Replace Cohere with Anthropic and update requirements.txt"
+ 1005  git status
+ 1006  git push
+ 1007  git add .
+ 1008  git commit -m "Print out chat_output"
+ 1009  git status
+ 1010  git push
+ 1011  pip install langchain==0.1
+ 1012  pip install langchain==0.0.335
+ 1013  pip install openai==0.00
+ 1014  pip install openai==1.1
+ 1015  pip install langchain==0.0.336
+ 1016  pip list
+ 1017  git add .
+ 1018  git status
+ 1019  git add .
+ 1020  git status
+ 1021  git commit -m "Add few shot prompt and OpenAI LLM"
+ 1022  git status
+ 1023  git push
+ 1024  git add .
+ 1025  git status
+ 1026  git commit -m "Import langchain HumanMessage"
+ 1027  git push
+ 1028  git add .
+ 1029  git commit -m "Handle invalid citation input"
+ 1030  git push
+ 1031  git add .
+ 1032  git commit -m "Reuse chat_generate_brief_case()"
+ 1033  git status
+ 1034  git push
+ 1035  git add .
+ 1036  pip install anthropic==0.7.3
+ 1037  git add .
+ 1038  pip list
+ 1039  git status
+ 1040  git commit -m "Create cases_test.txt for 5 random cases + Claude 2.1"
+ 1041  git push
+ 1042  git status
+ 1043  git add .
+ 1044  git commit -m "Pick 5 cases and run LLM on them"
+ 1045  git push
+ 1046  pip list
+ 1047  pip install neo4j
+ 1048  ls
+ 1049  cd tutor
+ 1050  ls
+ 1051  pip install llama_index pyvis IPython
+ 1052  ls
+ 1053  cd ..
+ 1054  ls
+ 1055  git clone https://github.com/nina2dv/Graph-Query.git
+ 1056  ls
+ 1057  cd Graph-Query
+ 1058  ls
+ 1059  git status
+ 1060  ls
+ 1061  pip list
+ 1062  pip install pymilvus
+ 1063  ls
+ 1064  cd Projects
+ 1065  ls
+ 1066  mkdir docker
+ 1067  cd docker
+ 1068  mkdir milvus
+ 1069  cd milvus
+ 1070  docker help
+ 1071  wget https://github.com/milvus-io/milvus/releases/download/v2.3.4/milvus-standalone-docker-compose.yml -O docker-compose.yml\n
+ 1072  git help
+ 1073  wget
+ 1074  ls
+ 1075  sudo docker compose up -d
+ 1076  sudo chown -R $(id -u):$(id -g) $HOME/.docker
+ 1077  sudo docker compose up -d
+ 1078  docker compose up -d
+ 1079  docker compose ps
+ 1080  docker port milvus-standalone 19530/tcp
+ 1081  sudo xcodebuild -license
+ 1082  ls
+ 1083  git help
+ 1084  xcode-select --install\n
+ 1085  git help
+ 1086  python help
+ 1087  ls
+ 1088  cd ..
+ 1089  ls
+ 1090  cd ..
+ 1091  ls
+ 1092  cd Pycharm_python3
+ 1093  ls
+ 1094  cd ..
+ 1095  ls
+ 1096  python3
+ 1097  which python3
+ 1098  ls
+ 1099  cd Pycharm_python3_8
+ 1100  ls
+ 1101  cd ecomtent-listing
+ 1102  ls
+ 1103  cat loader.py
+ 1104  cd ..
+ 1105  ls
+ 1106  cd ..
+ 1107  ls
+ 1108  cd pythonProject1
+ 1109  ls
+ 1110  cd ..
+ 1111  ls
+ 1112  cd docker
+ 1113  cd milvus
+ 1114  ls
+ 1115  docker compose down
+ 1116  docker compose ps
+ 1117  ls
+ 1118  cat volumes
+ 1119  cd volumes
+ 1120  ls
+ 1121  cat etcd
+ 1122  cd ..
+ 1123  ls
+ 1124  docker compose up -d
+ 1125  ls
+ 1126  sudo docker compose up -d
+ 1127  sudo docker compose up -d
+ 1128  docker compose ps
+ 1129  docker port milvus-standalone 19530/tcp
+ 1130  docker compose down
+ 1131  ls
+ 1132  rm -rf  volumes
+ 1133  ls
+ 1134  history 1
+ 1135  ls
+ 1136  cd ..
+ 1137  ls
+ 1138  node help
+ 1139  npm help
+ 1140  cd ..
+ 1141  ls
+ 1142  cd vs
+ 1143  ls
+ 1144  cd react
+ 1145  ls
+ 1146  ls
+ 1147  cd weblog
+ 1148  ls
+ 1149  mkdir backend
+ 1150  cd backend
+ 1151  python3 -m venv env
+ 1152  source env/bin/activate
+ 1153  pip install flask
+ 1154  pip install python-dotenv
+ 1155  touch .flaskenv
+ 1156  touch base.py
+ 1157  ls
+ 1158  flask run
+ 1159  ls
+ 1160  pip install langchain
+ 1161  pip install qdrant-client
+ 1162  pip install pinecone-client
+ 1163  pip install langchain-community
+ 1164  pip install cohere
+ 1165  pip install flask-cors
+ 1166  pip3 help
+ 1167  pip3 freeze > requirements
+ 1168  ls
+ 1169  pip install python-dotenv
+ 1170  source env/bin/activate
+ 1171  python3 base.py
+ 1172  python3 base.py
+ 1173  python3 base.py
+ 1174  pip install -U langchain-community
+ 1175  python3 base.py
+ 1176  python3 base.py
+ 1177  python3 base.py
+ 1178  pip install langchain==0.0.353
+ 1179  ls
+ 1180  python3 base.py
+ 1181  pip install langchain-community==0.0.6
+ 1182  python3 base.py
+ 1183  ls
+ 1184  python3 base.py
+ 1185  python3 base.py
+ 1186  pip install "unstructured[all-docs]"
+ 1187  python3 loader.py
+ 1188  python3 loader.py
+ 1189  python3 loader.py
+ 1190  python3 loader.py
+ 1191  pip install unstructured
+ 1192  pip install unstructured
+ 1193  python3 loader.py
+ 1194  pip install pymupdf
+ 1195  python3 loader.py
+ 1196  touch base.py
+ 1197  python app.py
+ 1198  python3 app.py
+ 1199  python base.py
+ 1200  python base.py
+ 1201  python base.py
+ 1202  python base.py
+ 1203  python base.py
+ 1204  python base.py
+ 1205  python base.py
+ 1206  python base.py
+ 1207  python base.py
+ 1208  python base.py
+ 1209  python base.py
+ 1210  python base.py
+ 1211  python clearPinecone.py
+ 1212  python3 clearPinecone.py
+ 1213  python3 loader.py
+ 1214  python base.py
+ 1215  python3 clearPinecone.py
+ 1216  python3 loader.py
+ 1217  python base.py
+ 1218  python3 loader.py
+ 1219  python3 loader.py
+ 1220  python base.py
+ 1221  python3 clearPinecone.py
+ 1222  python3 loader.py
+ 1223  python3 clearPinecone.py
+ 1224  python3 loader.py
+ 1225  python base.py
+ 1226  python3 stats.py
+ 1227  python base.py
+ 1228  python3 loader.py
+ 1229  python3 loader.py
+ 1230  python base.py
+ 1231  python3 loader.py
+ 1232  python3 loader.py
+ 1233  python3 clearPinecone.py
+ 1234  python3 clearPinecone.py
+ 1235  python3 clearPinecone.py
+ 1236  python3 loader.py
+ 1237  python3 loader.py
+ 1238  python3 loader.py
+ 1239  python base.py
+ 1240  python3 loader.py
+ 1241  python base.py
+ 1242  python base.py
+ 1243  ls
+ 1244  ps
+ 1245  python base.py
+ 1246  ls
+ 1247  pip freeze > requirements.txt
+ 1248  cat requirements.txt
+ 1249  touch Dockerfile
+ 1250  docker build -t flask-rest-api .\n
+ 1251  docker build -t flask-rest-api .\n
+ 1252  docker images
+ 1253  docker build -t flask-rest-api .\n
+ 1254  docker build -t flask-rest-api .\n
+ 1255  docker build -t flask-app .\n
+ 1256  docker run -p 5000:5000 flask-app\n
+ 1257  ls
+ 1258  docker compose ps
+ 1259  docker ps
+ 1260  python base.py
+ 1261  python base.py
+ 1262  ls
+ 1263  history
+ 1264  pip freeze > requirements.txt
+ 1265  docker ps
+ 1266  python base.py
+ 1267  python base.py
+ 1268  pip freeze > requirements.txt
+ 1269  ls
+ 1270  vercel deploy
+ 1271  vercel deploy
+ 1272  python base.py
+ 1273  cd api
+ 1274  ls
+ 1275  python base.py
+ 1276  python base.py
+ 1277  python base.py
+ 1278  python base.py
+ 1279  history 1

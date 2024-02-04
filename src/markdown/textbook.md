@@ -19,5 +19,3 @@
 ## MATH2030 Elementary Probability
 - A first course in probability 8th edition by Sheldon Ross
 
-
-[Chat bot](http://localhost:3000/chat)
