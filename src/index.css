@@ -131,40 +131,95 @@ a:active {
 }
 
 
-/* Base styles for the chat content */
+.chat-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh; /* Adjust based on your layout */
+  background-color: #352f2f;
+  box-shadow: #352f2f;
+  border-radius: 2%;
+  padding: 20px;
+}
+
+.chat-history {
+  overflow-y: auto;
+  margin-bottom: 20px;
+  
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 10px;
+  height: 70vh; /* Adjust based on your layout */
+}
+
+.chat-history div {
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+.chat-history div:nth-child(odd) {
+  background-color: #0056b3;
+}
+
+.chat-history div:nth-child(even) {
+  background-color: #007bff;
+}
+
+/* Styling for user and bot text */
+.chat-history markdown {
+  display: block;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+/* User message styling */
+.chat-history markdown:nth-child(odd) {
+  background-color: #dbf6fd;
+  text-align: left;
+}
+
+/* Bot message styling */
+.chat-history markdown:nth-child(even) {
+  background-color: #e7e7e7;
+  text-align: left;
+}
+
+/* Input area styling */
+form {
+  display: flex;
+  flex-direction: column;
+}
 
 textarea, input[type="text"] {
-  width: 95%;
   padding: 10px;
-  margin: 10px 0;
-  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
   border-radius: 4px;
-  box-sizing: border-box; /* So padding doesn't affect overall width */
 }
 
 input[type="submit"] {
+  cursor: pointer;
   background-color: #4CAF50;
   color: white;
-  padding: 10px 20px;
   border: none;
+  padding: 10px 20px;
   border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type="submit"]:hover {
-  background-color: #45a049;
+  transition: background-color 0.3s ease;
 }
 
 input[type="submit"]:disabled {
-  background-color: #ccc;
+  background-color: #999;
 }
 
-/* Accordion button styling */
+input[type="submit"]:hover:not(:disabled) {
+  background-color: #45a049;
+}
+
 .accordion {
-  background-color: #eee;
-  color: #444;
+  background-color: #007bff;
+  color: white;
   cursor: pointer;
-  padding: 18px;
+  padding: 14px;
   width: 100%;
   border: none;
   text-align: left;
@@ -173,14 +228,13 @@ input[type="submit"]:disabled {
   transition: 0.4s;
 }
 
-.active, .accordion:hover {
-  background-color: #ccc; 
+.accordion:hover {
+  background-color: #0056b3;
 }
 
-/* Style the accordion panel. Note: hidden by default */
 .panel {
   padding: 0 18px;
-  /* background-color: white; */
   display: none;
+  background-color: white;
   overflow: hidden;
 }
